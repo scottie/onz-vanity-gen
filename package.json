@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "onz-js": "git+https://github.com/OnzCoin/onz-js.git",
-    "bip39": "^2.4.0"
+    "bip39": "^3.1.0"
   },
   "bugs": {
     "url": "https://github.com/scottie/onz-vanit-ygen/issues"
